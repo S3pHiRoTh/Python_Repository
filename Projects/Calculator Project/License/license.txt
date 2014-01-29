@@ -1,0 +1,1 @@
+The source for 'Py Calculate' can be used for educational purposes and used in your own projects. Furthermore, the source for 'Py Calculate' can be uploaded anywhere on the internet and the original credits do not need to be retained.
